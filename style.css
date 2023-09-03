@@ -1,0 +1,384 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+.leap {
+  position: relative;
+  background-image: url(uneebo-office-design-UgYT5nkXdK4-unsplash.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+
+.background {
+  /* z-index: 1; */
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(to right, #000000dd, rgba(0, 0, 0, 0.153));
+}
+h1 {
+  font-size: 47px;
+  color: white;
+  z-index: 99;
+}
+.sse {
+  margin-top: 27px;
+  color: white;
+  z-index: 99;
+}
+.let {
+  display: flex;
+  margin-top: 30px;
+}
+.let1 {
+  background-color: rgb(8, 159, 164);
+  border-radius: 50px;
+  width: 150px;
+  border: none;
+}
+.let2 {
+  background-color: transparent;
+  border-radius: 50px;
+  width: 150px;
+  color: white;
+}
+.class1 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+}
+.close {
+  display: flex;
+  -webkit-text-fill-color: black;
+  list-style-type: none;
+  list-style: none;
+  gap: 30px;
+  text-decoration-style: none;
+  text-decoration: none;
+  color: white;
+  -webkit-text-fill-color: white;
+}
+.save {
+  background-color: white;
+  height: 45px;
+  width: 45px;
+  border-radius: 70px;
+  margin-top: 20px;
+  margin-right: 20px;
+  color: orange;
+}
+li {
+  list-style: none;
+  list-style-type: none;
+}
+.busy {
+  margin-top: 50px;
+  color: white;
+}
+.open {
+  background-color: transparent;
+}
+.er {
+  max-width: 67rem;
+  margin: 0 auto 8rem;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  border-radius: 50px;
+}
+button {
+  background-color: rgb(255, 172, 18);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 195px;
+  height: 35px;
+  color: white;
+}
+
+.puttin {
+  background-color: white;
+  height: 450px;
+  width: auto;
+  border-radius: 10px;
+}
+.div {
+  margin: 40px;
+  font-size: 22px;
+}
+.olp {
+  padding: 8px;
+  margin-bottom: 10px;
+  width: 180px;
+  border: 1px solid;
+  border-radius: pointer;
+  margin: 0 auto 0.3rem;
+}
+label {
+  margin-left: 40px;
+  margin-bottom: 8px;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+.en {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.lmen {
+  background-color: white;
+  height: 170px;
+  border-radius: 10px;
+  width: 200px;
+  border: 1px turquoise solid;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.dark_mode {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 70px;
+  margin: 0 auto 10rem;
+  max-width: 49rem;
+}
+
+.web7 {
+  background-color: aquamarine;
+  display: flex;
+  height: 90px;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.light {
+  background-color: aquamarine;
+  border-radius: 8px;
+}
+.ant {
+  display: flex;
+  align-items: center;
+}
+.track {
+  background-color: white;
+}
+.ite {
+  color: orange;
+  margin-top: 10px;
+}
+.dove {
+  display: flex;
+}
+.finland {
+  display: flex;
+  color: orange;
+  height: 30px;
+  size: 40%;
+}
+.f7 {
+  background-color: rgb(244 244 235);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  text-align: center;
+}
+h3 {
+  font-size: 26px;
+  font-weight: 800;
+}
+.f9 {
+  font-size: 13px;
+  margin-top: 14px;
+}
+.read {
+  background-color: rgb(9 54 74);
+  height: 50vh;
+}
+.stream {
+  position: relative;
+  bottom: 30%;
+  left: +22%;
+}
+.enter {
+  background-color: rgb(244 244 235);
+  height: 70vh;
+  text-align: center;
+}
+.lor {
+  padding-top: 50px;
+}
+.fair {
+  max-width: 60rem;
+  margin: 0 auto 10rem;
+}
+.physics {
+  text-align: left;
+}
+.grenade {
+  display: flex;
+  justify-content: space-around;
+  gap: 50px;
+}
+.mark {
+  background-color: white;
+  height: 190px;
+  width: 330px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+}
+.nake {
+  display: flex;
+  margin-top: 20px;
+}
+.hex {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.fanta {
+  padding-left: 50px;
+  text-align: center;
+  padding-top: 50px;
+}
+.chem {
+  background-color: #fffcfc;
+  height: 250px;
+  width: 270px;
+  border: 1px solid whitesmoke;
+  object-fit: cover;
+}
+.mustard {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.kathy {
+  text-align: center;
+  padding-top: 20px;
+  object-fit: cover;
+  padding-right: 20px;
+}
+.wake {
+  padding-top: 10px;
+}
+.ivan {
+  display: flex;
+  color: rgb(33, 180, 180);
+  gap: 20px;
+  size: 60%;
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 80px;
+  font-size: 19px;
+}
+.please {
+  background-image: url(_210cc16c-2253-4de5-9677-b94697df41a1.jpeg);
+  background-size: cover;
+  height: 100vh;
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  padding-left: 150px;
+}
+.radar {
+  padding-bottom: 50px;
+}
+.typec {
+  padding: 8px;
+  margin-bottom: 60px;
+  width: 230px;
+  border: 1px solid;
+  border-radius: pointer;
+  margin: 0 auto 0.3rem;
+}
+.typeb {
+  padding: 8px;
+  gap: 50px;
+  margin-bottom: 10px;
+  padding-bottom: 70px;
+  width: 490px;
+  border: 1px solid;
+  border-radius: pointer;
+  margin: 0 auto 0.3rem;
+}
+.laugh {
+  display: flex;
+  margin-bottom: 15px;
+  justify-content: space-between;
+  gap: 15px;
+}
+.laugh2 {
+  display: flex;
+  margin-bottom: 15px;
+  justify-content: space-between;
+  gap: 15px;
+}
+.laugh3 {
+  background-color: rgb(255, 172, 18);
+  margin-left: 1px;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 180px;
+  height: 45px;
+  color: white;
+}
+.jones {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-around;
+}
+.raptor {
+  background-color: rgb(7, 7, 44);
+  height: 80vh;
+  margin-top: 35px;
+}
+.rec {
+  padding-top: 40px;
+  padding-left: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+.dmt {
+  display: flex;
+  color: white;
+  justify-content: space-around;
+  margin-top: 200px;
+}
+.ass {
+  margin-top: 30px;
+}
+.fvt {
+  background-color: rgb(30 96 125);
+  height: 10vh;
+  color: white;
+  display: flex;
+  padding-left: 80px;
+  align-items: center;
+}
+.ican {
+  display: flex;
+  background-color: rgb(7, 7, 44);
+  gap: 30px;
+  font-size: 30px;
+  margin-right: 70px;
+}
+.ykm {
+  display: flex;
+}
